@@ -1,6 +1,6 @@
 # Gerenciador de Busca de Carros - C++
 
-Objetivo: Manipula uma lista com alocação contínua (vetores) numa aplicação que manipula informações de veículos de um site de busca para compra e venda.
+Objetivo: Manipular uma lista com alocação contínua (vetores) numa aplicação que manipula informações de veículos de um site de busca para compra e venda.
 
 Descrição: O aplicativo desenvolvido no projeto dgerencia listas de veículos em vetores de ponteiros para registros (structs). Cada linha do arquivo de entrada ou saída contém informações de apenas um veículo, conforme o modelo apresentado no arquivo-texto de exemplo “BD_veículos_2.txt”. Uma lista geral é criada seguindo a ordem apresentada no arquivo-texto, e novas listas são para ação quando for necessário. Além disso, também implementa as funções de inserção e remoção de veículos na lista principal, e novas listas quando necessário. Os vetores tem o limite máximo de 50 elementos. Ao final da execução, os dados são escritos novamente no arquivo-texto.
 
